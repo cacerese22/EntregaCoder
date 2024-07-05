@@ -101,6 +101,4 @@ function MarcasRopa() {
         
     }
 }}
-
-
 MarcasRopa()
